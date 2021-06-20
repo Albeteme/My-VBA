@@ -17,6 +17,8 @@ I used excel to run this script on both the testing Excel workbook (alphabetical
 
 The script may take few minutes to run because it goes through every single sheet. Just be patient.
 
+![image](https://user-images.githubusercontent.com/75787486/122659819-ad956900-d149-11eb-822e-75dffd382af4.png)
+
 As the script runs, it is doing the following:
 
 * It loops through all the stocks for one year for each run and takes the following information:
@@ -33,6 +35,7 @@ As the script runs, it is doing the following:
 
 * Finally, it return the stock with the greatest percent increase, greatest percent decrease, and greatest total volume
 
+![image](https://user-images.githubusercontent.com/75787486/122659821-b4bc7700-d149-11eb-96f0-d86bd2a278cb.png)
 
 After the script has finished running, the results can be seen in the Excel workbook. 
 The screenshoots show the yearly change for 2014,2015 and 2016. 
